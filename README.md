@@ -1,4 +1,6 @@
-# Additional example programs for the [tmp006] crate [![Build Status](https://travis-ci.org/eldruin/tmp006-examples.svg?branch=master)](https://travis-ci.org/eldruin/tmp006-examples)
+# Archived. See [driver-examples](https://github.com/eldruin/driver-examples)
+
+## Additional example programs for the [tmp006] crate [![Build Status](https://travis-ci.org/eldruin/tmp006-examples.svg?branch=master)](https://travis-ci.org/eldruin/tmp006-examples)
 
 [tmp006]: https://crates.io/crates/tmp006
 
